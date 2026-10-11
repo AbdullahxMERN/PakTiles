@@ -61,7 +61,7 @@ export default function Footer() {
 
           <div>
             <h4 className="text-[11px] uppercase tracking-wider text-[#0f3e2e] font-bold mb-4">
-              Architectural Network
+              Network
             </h4>
             <p className="text-xs text-[#4b5563] mb-4 font-normal leading-relaxed">
               Follow our latest quarry allocations, dry-lay verifications, and

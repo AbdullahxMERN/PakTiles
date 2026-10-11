@@ -1,5 +1,6 @@
 import { Cormorant_Garamond, Plus_Jakarta_Sans } from "next/font/google";
 import "./globals.css";
+import GitHubStarPopup from "@/components/GitHubStarPopup";
 
 const cormorant = Cormorant_Garamond({
   variable: "--font-serif",
@@ -49,6 +50,7 @@ export default function RootLayout({ children }) {
     >
       <body className="min-h-screen bg-[#f3f5f3] text-[#111827] font-sans selection:bg-[#0f3e2e] selection:text-white">
         {children}
+        <GitHubStarPopup />
       </body>
     </html>
   );

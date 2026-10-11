@@ -1,21 +1,13 @@
 PakTiles
-Premium tile showcase website for PakTiles — a tile business near Centaurus, Islamabad.
+tile showcase website for PakTiles a tile business near Centaurus Islamabad
 
 Tech Stack
-Next.js 16 (App Router)
+Next.js
 Tailwind CSS
 Framer Motion
 Lucide Icons
 
-Structure
-
-app/ — Layout, global styles, main page
-components/ — Navbar, Hero, CollectionSection, LocationMapSection, ContactSection, Footer
-data/tiles.js — Tile catalog data & business info
-public/images/ — Tile product images & hero backgrounds
-
 Features
-
 Filterable tile collection with search
 WhatsApp inquiry with pre-filled messages
 Google Maps embed for location
