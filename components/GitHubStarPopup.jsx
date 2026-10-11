@@ -49,7 +49,7 @@ export default function GitHubStarPopup() {
       } catch {
         setIsOpen(true);
       }
-    }, 12000);
+    }, 11000);
 
     return () => clearTimeout(timer);
   }, []);

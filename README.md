@@ -1,5 +1,10 @@
-PakTiles
-tile showcase website for PakTiles a tile business near Centaurus Islamabad
+Project Team
+
+Project Supervisor: Muhammad Tayyab ur Rehman
+
+Developer: Abdullah Kishwar
+
+tiles website for PakTiles a tile business near Centaurus Islamabad
 
 Tech Stack
 Next.js
@@ -13,5 +18,3 @@ WhatsApp inquiry with pre-filled messages
 Google Maps embed for location
 Contact form with WhatsApp forwarding
 Fully responsive design
-
-This website was developed by Abdullah Kishwar under the supervision and guidance of Muhammad Tayyab ur Rehman

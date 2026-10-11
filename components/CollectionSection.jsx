@@ -219,7 +219,7 @@ export default function CollectionSection() {
                         className="w-full flex items-center justify-center gap-2 text-xs uppercase tracking-wider font-bold text-white bg-[#0f3e2e] hover:bg-[#134e3a] py-3.5 rounded-xl transition-all shadow-sm"
                       >
                         <MessageSquare className="w-4 h-4 text-[#34d399]" />
-                        <span>Inquire via WhatsApp</span>
+                        <span>Inquire</span>
                         <ArrowUpRight className="w-4 h-4" />
                       </a>
                     </div>
